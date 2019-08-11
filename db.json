@@ -53,19 +53,19 @@
         "NestedFiles":[
             {
                 "Id":"1",
-                "Type": 0,
+                "Type": "0",
                 "Name": "Hello",
                 "Details": "HelloWorld",
                 "NestedFiles":[
                     {
                 "Id":"3",
-                "Type": 1,
+                "Type": "1",
                 "Name": "Hellofile1",
                 "Details": "HelloWorld",
                 "NestedFiles":[
                     {
                 "Id":"4",
-                "Type": 1,
+                "Type": "1",
                 "Name": "Hellofile2",
                 "Details": "HelloWorld",
                 "NestedFiles":[
@@ -77,7 +77,7 @@
             },
             {
                 "Id":"2",
-                "Type": 0,
+                "Type": "0",
                 "Name": "Hello2",
                 "Details": "HelloWorld",
                 "NestedFiles":[

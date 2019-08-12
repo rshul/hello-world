@@ -150,8 +150,73 @@
           "NestedFiles": [
             {
               "Id": "3",
+              "Type": "0",
+              "Name": "bin",
+              "Details": "Main",
+              "NestedFiles": [
+                {
+                  "Id": "3",
+                  "Type": "0",
+                  "Name": "Debug",
+                  "Details": "Main",
+                  "NestedFiles": []
+                },
+                {
+                  "Id": "3",
+                  "Type": "0",
+                  "Name": "Release",
+                  "Details": "Main",
+                  "NestedFiles": []
+                }
+              ]
+            },
+            {
+              "Id": "3",
+              "Type": "0",
+              "Name": "Controllers",
+              "Details": "Main",
+              "NestedFiles": [
+                {
+                  "Id": "3",
+                  "Type": "1",
+                  "Name": "UserController.cs",
+                  "Details": "Main",
+                  "NestedFiles": []
+                },
+                {
+                  "Id": "3",
+                  "Type": "1",
+                  "Name": "ProjectController.cs",
+                  "Details": "Main",
+                  "NestedFiles": []
+                }
+              ]
+            },
+            {
+              "Id": "3",
               "Type": "1",
-              "Name": "Main.cs",
+              "Name": "Startup.cs",
+              "Details": "Main",
+              "NestedFiles": []
+            },
+            {
+              "Id": "3",
+              "Type": "1",
+              "Name": "Program.cs",
+              "Details": "Main",
+              "NestedFiles": []
+            },
+            {
+              "Id": "3",
+              "Type": "1",
+              "Name": "IDEAPI.csproj",
+              "Details": "Main",
+              "NestedFiles": []
+            },
+            {
+              "Id": "3",
+              "Type": "1",
+              "Name": "appsetting.json",
               "Details": "Main",
               "NestedFiles": []
             }
